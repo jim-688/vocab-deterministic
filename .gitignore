@@ -1,0 +1,6 @@
+# 个人数据不提交
+progress.json
+teaching_data.json
+words.json
+audio/
+__pycache__/
