@@ -1,5 +1,7 @@
 # vocab-deterministic — 零 token 背单词系统
 
+> **已归档**：本项目是 [wordvault](https://github.com/jim-688/wordvault) 的前身/早期引擎版。wordvault 为正式版（含完整词库、LICENSE、examples），日常使用请前往 wordvault。
+
 一个**大模型零参与**的背单词引擎：本地脚本判定对错、JSON 存进度、艾宾浩斯曲线调度复习。AI 只做每周留存率分析（可选），日常教学/测试/统计全部走确定性代码。
 
 ## 设计思路（为什么值得看）
